@@ -23,19 +23,19 @@ The application generates complete brand identity concepts from natural language
 
 ### Home Screen
 
-![Home Screen](screenshots/home_screen.png)
+![Home Screen](screenshots/home_screen.PNG)
 
 ### Generated Brand Strategy & Moodboard
 
-![Moodboard](screenshots/moodboard.png)
+![Moodboard](screenshots/moodboard.PNG)
 
 ### Color Palette & Logo Concept
 
-![Palette](screenshots/palette.png)
+![Palette](screenshots/palette.PNG)
 
 ### Generated Logo
 
-![Logo](screenshots/logo.png)
+![Logo](screenshots/logo.PNG)
 
 ---
 
